@@ -1,0 +1,40 @@
+.label{
+    
+    padding-left: -50px;
+    padding-top: -30px;
+}
+.label {
+    height: 30px;
+    width: 142px;
+    font-family: 'Salsa', cursive;
+  }
+  
+  .label .pupIcon{
+    height: 60px;
+    width: 60px;
+    display: flex;
+    margin-top:-25px;
+  }
+  
+  .label .puphub {
+    color: transparent;
+    font-size: 32px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    padding-left: 70px;
+    margin-top: -45px;
+    top: 0;
+    width: 142px;
+    
+  }
+  
+  .label .text-wrapper {
+    color: #ffaa00;
+  }
+  
+  .label .span {
+    color: #ffe55d;
+  }
+  
