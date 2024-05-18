@@ -14,17 +14,17 @@ To run this project locally, follow these steps:
     git clone https://github.com/yourusername/animal-clinic-staff-management.git
     cd animal-clinic-staff-management
 2.Install dependencies for both client and server:
-    cd client
-    npm install
-    cd ../server
+    cd client,
+    npm install,
+    cd ../server,
     npm install
 
 Running the Frontend
-       cd client
+       cd client,
        npm start
        
 Running the Backend
-       cd server
+       cd server,
        node Server.js
 
 Technologies Used
