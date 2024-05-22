@@ -41,7 +41,8 @@ Other Tools:
    JWT for authentication
    bcrypt for password hashing
   
-
+Login Page
+![Screenshot_13-5-2024_152020_localhost](https://github.com/BIWeerathunga/Pet-clinic-Staff-Management/assets/130123890/9aeda4e7-0f06-4583-8c29-b23be051c7a4)
     
 
 
